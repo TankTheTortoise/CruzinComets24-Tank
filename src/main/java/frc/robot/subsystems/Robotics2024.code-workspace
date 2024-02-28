@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../Robotics2024"
+		},
+		{
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "automatic",
+		"java.server.launchMode": "Standard"
+	}
+}
